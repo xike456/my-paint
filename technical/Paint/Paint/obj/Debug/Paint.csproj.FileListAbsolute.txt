@@ -1,0 +1,13 @@
+D:\Project\my-paint\trunk\technical\Paint\Paint\bin\Debug\Paint.exe.config
+D:\Project\my-paint\trunk\technical\Paint\Paint\bin\Debug\Paint.exe
+D:\Project\my-paint\trunk\technical\Paint\Paint\bin\Debug\Paint.pdb
+D:\Project\my-paint\trunk\technical\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+D:\Project\my-paint\trunk\technical\Paint\Paint\obj\Debug\MainWindow.baml
+D:\Project\my-paint\trunk\technical\Paint\Paint\obj\Debug\MainWindow.g.cs
+D:\Project\my-paint\trunk\technical\Paint\Paint\obj\Debug\App.g.cs
+D:\Project\my-paint\trunk\technical\Paint\Paint\obj\Debug\Paint_MarkupCompile.cache
+D:\Project\my-paint\trunk\technical\Paint\Paint\obj\Debug\Paint.g.resources
+D:\Project\my-paint\trunk\technical\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Project\my-paint\trunk\technical\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+D:\Project\my-paint\trunk\technical\Paint\Paint\obj\Debug\Paint.exe
+D:\Project\my-paint\trunk\technical\Paint\Paint\obj\Debug\Paint.pdb

@@ -1,0 +1,25 @@
+﻿<Window x:Class="Paint.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <DockPanel Background="#FFCFCFCF" LastChildFill="True">
+        <ToolBarPanel Height="72" Margin="10,10,10,0" VerticalAlignment="Top" DockPanel.Dock="Top">
+            <StackPanel Orientation="Horizontal">
+                <GroupBox>
+                    <GroupBox.Header>Shape</GroupBox.Header>
+                    <StackPanel Orientation="Vertical">
+                        <RadioButton x:Name="radioLine" GroupName="Shape">Line</RadioButton>
+                        <RadioButton x:Name="radioRectangle" GroupName="Shape">Rectangle</RadioButton>
+                        <RadioButton x:Name="radioEllipse" GroupName="Shape">Ellipse</RadioButton>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+        </ToolBarPanel>
+        <Canvas x:Name="DrawCanvas" Background="White" 
+                PreviewMouseLeftButtonDown="DrawCanvas_PreviewMouseLeftButtonDown" 
+                PreviewMouseLeftButtonUp="DrawCanvas_PreviewMouseLeftButtonUp" 
+                MouseMove="DrawCanvas_MouseMove" ClipToBounds="True"></Canvas>
+
+    </DockPanel>
+</Window>
+    
